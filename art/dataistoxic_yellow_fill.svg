@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
      id="layer1">
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
        id="path2987"
        sodipodi:cx="354.28571"
        sodipodi:cy="522.36218"
@@ -81,7 +81,7 @@
        inkscape:export-ydpi="602.3222" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:Sans"
        x="70.000008"
        y="209.50504"
        id="text3939"
@@ -93,72 +93,72 @@
          sodipodi:role="line"
          x="70.000008"
          y="209.50504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4010">emailsasldkjasdlkjas</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="240.75504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4183">daskd</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="272.00504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4201">lasjkdemails, birthdays, children </tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="303.25504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4193">sleep habits, location, credit score, devr</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="334.50504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4195">credit score, mortgage, website visitor logs</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="365.75504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4197">travel plans, passwords, health conditions</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="397.00504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4199">worbirthdays, viewing habits, fitness tracking</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="428.25504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4189">dklspeeding tickets, transcripts, home security </tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="459.50504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4205">asgenetic traits, favorite restaurants, shopping</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="490.75504"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4207">private messages, social graph, political views</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="522.005"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4209">gmedical records, prescriptions drugs, debt</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="553.255"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4211">savings, college photos from </tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="584.505"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4213">greatest fears and doubts</tspan><tspan
          sodipodi:role="line"
          x="70.000008"
          y="615.755"
-         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#999999;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:25px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans"
          id="tspan4215">asdlkjasdljkasdlkjsadlaskjdlakjalskdjalskdjasldkjasldkjasd</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99202579px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -255,14 +255,6 @@
          x="278.70529"
          y="492.32941"
          style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">IS</tspan></text>
-    <path
-       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:7.14285706999999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 329.21171,764.68243 C 245.34548,757.03311 171.24269,711.13673 126.10586,638.88654 113.4241,618.58694 101.64159,591.00671 95.685668,567.6797 l -2.970879,-11.63579 5.984261,-8.19955 c 3.29134,-4.50975 12.46743,-14.68912 20.39132,-22.62082 26.61994,-26.64619 49.70862,-36.11313 88.40657,-36.24891 14.71972,-0.0516 18.60253,1.50412 25.68354,10.29087 7.07312,8.77697 11.45993,16.95577 18.17373,33.88326 11.17773,28.1823 20.3343,43.47959 27.11804,45.30427 4.75695,1.27952 24.82749,-1.72827 35.08755,-5.25825 29.68648,-10.21365 53.88372,-38.55169 73.60282,-86.19829 12.48679,-30.17138 18.21953,-37.16755 32.98125,-40.24987 24.55571,-5.12736 37.03143,-4.42967 44.93885,2.51315 2.7699,2.432 10.81265,12.97112 17.87279,23.42027 7.06013,10.44915 15.76146,21.57301 19.33627,24.71969 18.2125,16.03129 50.25917,17.07985 80.49136,2.63367 9.33256,-4.45949 14.51166,-8.1686 22.37807,-16.02654 l 10.23521,-10.22418 0.83622,4.18106 c 1.59908,7.99542 0.82278,40.96798 -1.34174,56.9891 -7.88898,58.39159 -33.77926,110.94181 -75.06422,152.35991 -40.12714,40.25655 -90.31447,65.94638 -146.60598,75.04449 -16.806,2.71626 -47.49758,3.83116 -64.00899,2.32519 l 0,0 z"
-       id="path3848-3"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/n8fr8/Desktop/dataistoxic.png"
-       inkscape:export-xdpi="602.3222"
-       inkscape:export-ydpi="602.3222" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.14285707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 331.36683,786.48226 C 247.5006,778.83294 173.39781,732.93656 128.26098,660.68637 115.57922,640.38677 103.7967,612.80654 97.840783,589.47953 l -2.970879,-11.63579 5.984256,-8.19955 c 3.29134,-4.50975 12.46743,-14.68912 20.39132,-22.62082 26.61995,-26.64619 49.70862,-36.11313 88.40658,-36.24891 14.71972,-0.0516 18.60253,1.50412 25.68354,10.29087 7.07312,8.77697 11.45993,16.95577 18.17373,33.88326 11.17773,28.1823 20.3343,43.47959 27.11804,45.30427 4.75695,1.27952 24.82749,-1.72827 35.08755,-5.25825 29.68648,-10.21365 53.88372,-38.55169 73.60282,-86.19829 12.48679,-30.17138 18.21953,-37.16755 32.98125,-40.24987 24.55571,-5.12736 37.03143,-4.42967 44.93885,2.51315 2.7699,2.432 10.81265,12.97112 17.87279,23.42027 7.06013,10.44915 15.76146,21.57301 19.33627,24.71969 18.2125,16.03129 50.25917,17.07985 80.49136,2.63367 9.33256,-4.45949 14.51166,-8.1686 22.37807,-16.02654 l 10.23521,-10.22418 0.83622,4.18106 c 1.59908,7.99542 0.82278,40.96798 -1.34174,56.9891 -7.88898,58.39159 -33.77926,110.94181 -75.06422,152.35991 -40.12714,40.25655 -90.31447,65.94638 -146.60598,75.04449 -16.806,2.71626 -47.49758,3.83116 -64.00899,2.32519 l 0,0 z"
